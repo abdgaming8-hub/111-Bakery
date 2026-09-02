@@ -10,7 +10,7 @@ A fully-functional, end-to-end cake delivery web application built as a product 
 
 **Abhyuday Dakhole**
 📧 abdgaming8@gmail.com
-🔗 https://github.com/mayanknagpal3107/111-bakery
+🔗 https://github.com/abdgaming8-hub/111-bakery
 
 ---
 
