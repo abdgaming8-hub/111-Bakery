@@ -2,6 +2,11 @@
   "name": "111-bakery",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Abhyuday Dakhole",
+    "email": "abdgaming8@gmail.com",
+    "url": "https://github.com/mayanknagpal3107/111-bakery"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
